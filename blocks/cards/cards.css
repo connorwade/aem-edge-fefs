@@ -1,4 +1,5 @@
-.cards > ul {
+/* fakecss:/home/connor/local-repo/aem-boilerplate/custom-components/cards/Cards.esbuild-svelte-fake-css */
+.cards.svelte-rfhd2r > ul.svelte-rfhd2r.svelte-rfhd2r {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -6,25 +7,20 @@
   grid-template-columns: repeat(auto-fill, minmax(278px, 1fr));
   grid-gap: 16px;
 }
-
-.cards > ul > li {
+.cards.svelte-rfhd2r > ul.svelte-rfhd2r > li.svelte-rfhd2r {
   border: 1px solid var(--dark-color);
   background-color: var(--background-color);
 }
-
-.cards .cards-card-body {
+.cards.svelte-rfhd2r .cards-card-body.svelte-rfhd2r.svelte-rfhd2r {
   margin: 16px;
 }
-
-.cards .cards-card-image {
+.cards.svelte-rfhd2r .cards-card-image.svelte-rfhd2r.svelte-rfhd2r {
   line-height: 0;
 }
-
-.cards .cards-card-body > *:first-child {
+.cards.svelte-rfhd2r .cards-card-body.svelte-rfhd2r > .svelte-rfhd2r:first-child {
   margin-top: 0;
 }
-
-.cards > ul > li img {
+.cards.svelte-rfhd2r > ul > li img.svelte-rfhd2r.svelte-rfhd2r {
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
